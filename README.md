@@ -9,4 +9,4 @@ Features of the matches are :
 - the odds for each team at BET365
 
 I also attach already prepared data in csv file.
-If you want a raw data to analyze and test all this function on, it is the website where I took whole data http://football-data.co.uk/data.php . 
+If you want a raw data to analyze and test this model on, it is the website where I took whole data http://football-data.co.uk/data.php . 
